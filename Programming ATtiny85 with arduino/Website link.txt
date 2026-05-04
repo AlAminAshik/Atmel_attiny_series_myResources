@@ -1,0 +1,6 @@
+https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/
+
+Changes:
+> direct uploading will not work, go to sketch>upload using programmer.
+
+Upload system for attiny13 and 85 are the same
